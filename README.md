@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main(){
 	int i;
 	int sum;
@@ -9,5 +8,4 @@ int main(){
 	}
 	printf("%d\n",sum);
 	return 0;
-
 }
